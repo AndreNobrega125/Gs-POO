@@ -2,6 +2,18 @@
 
 Um sistema completo de monitoramento para estações espaciais desenvolvido em Java com os conceitos fundamentais de Programação Orientada a Objetos.
 
+---
+
+## Integrantes
+
+| Nome | RM |
+|------|----|
+| *(André Ayello de Nobrega)* | *(RM561754)* |
+| *(André Gouveia de Lima)* | *(RM564219)* |
+| *(Mirella Mascarenhas)* | *(RM562092)* |
+
+---
+
 ## 📋 O Que É
 
 A ideia é simples: você está gerenciando uma estação espacial e precisa monitorar vários sistemas pra garantir que tudo funcione normalmente. Se algo sai do controle, o sistema avisa automaticamente.
@@ -68,6 +80,13 @@ javac *.java
 ```bash
 java SistemaMonitoramento
 ```
+
+---
+#Fotos do terminal:
+
+Funcionalidade 5: 
+
+---
 
 ## 📖 Como Usar
 
@@ -166,12 +185,4 @@ Os alertas são emitidos em 3 níveis:
 - ✓ Sistema de alertas automáticos
 - ✓ Sem dependências externas (só Java puro)
 
-## 🎓 Projeto Para
-
-**Disciplina**: Programação Orientada a Objetos (POO)  
-**Instituição**: FIAP  
-**Semestre**: Global Solution 2026
-
 ---
-
-Made with ☕ and lots of debugging
