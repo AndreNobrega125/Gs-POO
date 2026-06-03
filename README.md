@@ -86,13 +86,9 @@ java SistemaMonitoramento
 
 ### Colocando a opção 5 do menu
 
-![Print 1](print1.png)
+|----------|----------|----------|----------|
+| ![](print1.png) | ![](print2.png) | ![](print3.png) | ![](print4.png) |
 
-![Print 2](print2.png)
-
-![Print 3](print3.png)
-
-![Print 4](print4.png)
 ---
 
 ## 📖 Como Usar
