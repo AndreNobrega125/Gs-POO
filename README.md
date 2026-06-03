@@ -84,20 +84,15 @@ java SistemaMonitoramento
 ---
 ## Prints do Terminal
 
-###Colocando a opção 5 do menu:
+### Colocando a opção 5 do menu
 
-### Passo 1
-![Print 1](imagens/print1.png)
+![Print 1](print1.png)
 
-### Passo 2
-![Print 2](imagens/print2.png)
+![Print 2](print2.png)
 
-### Passo 3
-![Print 3](imagens/print3.png)
+![Print 3](print3.png)
 
-### Passo 4
-![Print 4](imagens/print4.png)
-
+![Print 4](print4.png)
 ---
 
 ## 📖 Como Usar
