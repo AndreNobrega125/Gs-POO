@@ -82,9 +82,21 @@ java SistemaMonitoramento
 ```
 
 ---
-#Fotos do terminal:
+## Prints do Terminal
 
-Funcionalidade 5: 
+###Colocando a opção 5 do menu:
+
+### Passo 1
+![Print 1](imagens/print1.png)
+
+### Passo 2
+![Print 2](imagens/print2.png)
+
+### Passo 3
+![Print 3](imagens/print3.png)
+
+### Passo 4
+![Print 4](imagens/print4.png)
 
 ---
 
